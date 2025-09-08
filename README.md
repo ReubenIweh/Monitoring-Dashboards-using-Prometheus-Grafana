@@ -2,7 +2,7 @@
 Production-ready monitoring setup using Prometheus and Grafana for Linux infrastructure
 
 📑 **Table of Contents**
-- [Prequisites](#prequisites)
+- [Prerequisites](#prerequisites)
 - [Install Prometheus](#install-prometheus)
 - [Configuration Prometheus to Scrape metrics](#configuration-prometheus-to-scrape-metrics)
 - [Create Prometheus Systemd Service](#create-prometheus-systemd-service)
