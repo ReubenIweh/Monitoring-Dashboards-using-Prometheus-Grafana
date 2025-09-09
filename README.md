@@ -193,6 +193,7 @@ Password: admin (change on first login)
 
 ## Build Dashboards in Grafana
 
+<details> <summary>Click to expand</summary>
 
 - Add Prometheus as a data source.
 
@@ -203,3 +204,5 @@ Password: admin (change on first login)
 - Alerts on thresholds
 
 - Heatmaps or table views of all nodes
+
+  </details>
