@@ -18,7 +18,7 @@ Production-ready monitoring setup using Prometheus and Grafana for Linux infrast
 - Linux-based Monitoring Server (RHEL/CentOS/AlmaLinux)
 - Root access or sudo privileges
 - Network access to all nodes (port 9100 open)
-- Optional: DNS configured or IP addresses noted
+- DNS configured or IP addresses noted
 
 </details>
 
