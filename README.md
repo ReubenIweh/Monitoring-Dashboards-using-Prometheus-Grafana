@@ -11,6 +11,7 @@ Production-ready monitoring setup using Prometheus and Grafana for Linux infrast
 - [Build Dashboards in Grafana](#build-dashboards-in-grafana)
 - [Open Specific Ports on Firewall](#open-sepecific-ports-on-firewall)
 
+<details> <summary>Click to expand</summary>
 
   ## Prerequisites
   
@@ -18,6 +19,8 @@ Production-ready monitoring setup using Prometheus and Grafana for Linux infrast
 - Root access or sudo privileges
 - Network access to all nodes (port 9100 open)
 - Optional: DNS configured or IP addresses noted
+
+</details>
 
 ## Install Prometheus
 
